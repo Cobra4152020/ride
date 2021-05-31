@@ -16,7 +16,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@openzeppelin/contracts": "^3.4.0",
-    "@truffle/0x58faF2f5c3F4788DC583A35D44f78060951D0f85": "^1.2.3"
+    "@truffle/0x": "^1.2.3"
   },
   "devDependencies": {
     "truffle-plugin-verify": "^0.5.7"
